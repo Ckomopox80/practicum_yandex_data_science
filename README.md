@@ -1,2 +1,4 @@
-# practicum_yandex_data_science
-study
+# Специалист по Data Science расширенный
+
+Обучение первые шапги в освоении Data Science
+
